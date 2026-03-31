@@ -1,0 +1,69 @@
+/* GLOBAL */
+body {
+    background: linear-gradient(to right, #eef2f3, #dfe9f3);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* CARD */
+.card {
+    border-radius: 20px;
+}
+
+/* TITLES */
+.title {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.subtitle {
+    font-size: 15px;
+}
+
+/* HERO */
+.hero {
+    text-align: center;
+    margin-top: 60px;
+}
+
+/* FEATURES */
+.feature-box {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    text-align: center;
+    font-size: 14px;
+}
+
+/* BUTTON */
+.btn-primary {
+    font-weight: 600;
+    padding: 10px;
+}
+
+/* RESULT PAGE */
+.score {
+    font-size: 42px;
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+.role-box {
+    background: linear-gradient(135deg, #198754, #20c997);
+    color: white;
+    border-radius: 15px;
+}
+
+.progress {
+    height: 20px;
+    border-radius: 10px;
+}
+
+.roadmap-step {
+    padding: 6px 0;
+    border-bottom: 1px solid #eee;
+}
+
+h5 {
+    font-weight: 600;
+}
